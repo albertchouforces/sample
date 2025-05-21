@@ -30,7 +30,7 @@
 	        {
         question: "What does this indicate?",
         answer: "North",
-        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/North.png?raw=true"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/North.png"
       },
       {
         question: "What does this indicate?",
