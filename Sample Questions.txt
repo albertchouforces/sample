@@ -1,5 +1,5 @@
   {
-    quizId: "buoys",
+    quizID: "buoys",
     quizName: "Buoys and Channel Markers",
     questions: [
       {
