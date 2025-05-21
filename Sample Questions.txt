@@ -5,52 +5,52 @@
       {
         question: "What does this indicate?",
         answer: "Safe Water",
-        image: "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/Safe%20Water.png"
       },
       {
         question: "What does this indicate?",
         answer: "Isolated Danger",
-        image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/Isolated%20Danger.png"
       },
       {
         question: "What does this indicate?",
         answer: "New Danger",
-        image: "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/New%20Danger.png"
       },
       {
         question: "What does this indicate?",
         answer: "Port",
-        image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/Port.png"
       },
       {
         question: "What does this indicate?",
         answer: "Starboard",
-        image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/Starboard.png"
       },
 	        {
         question: "What does this indicate?",
         answer: "North",
-        image: "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/North.png?raw=true"
       },
       {
         question: "What does this indicate?",
         answer: "East",
-        image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/East.png"
       },
       {
         question: "What does this indicate?",
         answer: "South",
-        image: "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/South.png"
       },
       {
         question: "What does this indicate?",
         answer: "West",
-        image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/West.png"
       },
       {
         question: "What does this indicate?",
         answer: "Do Not Pass",
-        image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=600&auto=format&fit=crop"
+        image: "https://raw.githubusercontent.com/albertchouforces/sample/refs/heads/main/images/Do%20Not%20Pass.png"
       }
     ]
   }
